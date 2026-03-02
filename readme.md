@@ -1,5 +1,3 @@
-Aqui está o conteúdo formatado em **Markdown** para que você possa copiar e colar com facilidade:
-
 ---
 
 # 📌 Perfil e Roadmap de Carreira em Tecnologia
