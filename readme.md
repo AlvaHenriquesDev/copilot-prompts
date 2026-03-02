@@ -1,4 +1,3 @@
----
 
 # 📌 Perfil e Roadmap de Carreira em Tecnologia
 
